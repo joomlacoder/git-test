@@ -1,1 +1,1 @@
-принт(Привет мир первый)
+print(Hello world fix)
