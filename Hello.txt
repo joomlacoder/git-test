@@ -1,2 +1,2 @@
-print(Hello world fix)
-pf
+print(Hello world fix);
+pf;
